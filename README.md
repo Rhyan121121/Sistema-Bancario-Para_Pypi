@@ -1,16 +1,15 @@
-# package_name
+# Sistema Bancário
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição. 
+O pacote Sistema Bancário é usado para:
+	- Fazer a simulação de um banco com diversas operações
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install sistema_bancario
 ```
 
 ## Usage
@@ -21,7 +20,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Rhyan
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
