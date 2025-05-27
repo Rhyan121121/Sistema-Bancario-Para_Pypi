@@ -1,6 +1,7 @@
 # Sistema Bancário
 
 Descrição. 
+
 O pacote Sistema Bancário é usado para:
 	- Fazer a simulação de um banco com diversas operações
 
