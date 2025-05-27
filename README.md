@@ -11,16 +11,5 @@ Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar
 ```bash
 pip install sistema_bancario
 ```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
-
 ## Author
 Rhyan
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
