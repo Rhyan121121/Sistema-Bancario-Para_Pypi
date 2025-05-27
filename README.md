@@ -6,7 +6,7 @@ O pacote Sistema Bancário é usado para:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar sistema_bancario
 
 ```bash
 pip install sistema_bancario
