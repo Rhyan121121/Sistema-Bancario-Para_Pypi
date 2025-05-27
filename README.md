@@ -11,5 +11,5 @@ Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar
 ```bash
 pip install sistema_bancario
 ```
-## Author
+## Autor
 Rhyan
